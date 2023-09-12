@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Art
+/Assets/ParrelSync
+/Assets/Settings
+/Library
+/ProjectSettings
+/Temp
+/UserSettings
